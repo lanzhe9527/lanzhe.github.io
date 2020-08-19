@@ -10,10 +10,6 @@
 * Jekyll 支持: Mac 、Windows、ubuntu 、Linux 操作系统                     
 * Jekyll 需要依赖: Ruby、bundler
 
-### 使用手册
-
-[Jekyll搭建个人博客](https://leopardpan.cn/2016/10/jekyll_tutorials1/)  :  使用Jekyll搭建个人博客的教程，及如何把这个博客模板修改成你自己的博客，里面也有大量的评论、Jekyll 搭建博客各种环境出现过的问题。
-
 
 #### 安装Jekyll
 
@@ -46,8 +42,6 @@
 搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](https://lanzhe9527.github.io/2020/08/jekyll_tutorials1/)。
 
 
-
-
 #### 感谢   
 
-本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+本博客在[leopardpan](https://leopardpan.cn/2016/10/jekyll_tutorials1/)基础上修改的。  
